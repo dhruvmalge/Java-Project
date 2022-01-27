@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dhruvmalge
-- 👀 I’m interested in coding, making music on DJ and Launchpad
+- 👀 I’m interested in coding to make new projects, making music on DJ and Launchpad
 - 🌱 I’m currently learning Data Science and OpenCV
 - 💞️ I’m looking to collaborate on some interesting projects
 - 📫 How to reach me - Email : dhruvmalge@gmail.com
